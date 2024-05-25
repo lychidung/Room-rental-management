@@ -1,0 +1,223 @@
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Project Phòng Trọ.exe
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Project Phòng Trọ.dll.config
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Project Phòng Trọ.deps.json
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Project Phòng Trọ.runtimeconfig.json
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Project Phòng Trọ.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Project Phòng Trọ.pdb
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project Phòng Trọ.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.Form1.resources
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project Phòng Trọ.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project Phòng Trọ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project Phòng Trọ.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project Phòng Trọ.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project Phòng Trọ.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project Phòng Trọ.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project Phòng Trọ.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\refint\Project Phòng Trọ.dll
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project Phòng Trọ.pdb
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project Phòng Trọ.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\WordPlace\Lập Trình Windows\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\ref\Project Phòng Trọ.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Project Phòng Trọ.exe
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Project Phòng Trọ.dll.config
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Project Phòng Trọ.deps.json
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Project Phòng Trọ.runtimeconfig.json
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Project Phòng Trọ.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Project Phòng Trọ.pdb
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Humanizer.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.ReportViewer.Common.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project Phòng Trọ.csproj.AssemblyReference.cache
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.Form1.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project Phòng Trọ.csproj.GenerateResource.cache
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project Phòng Trọ.GeneratedMSBuildEditorConfig.editorconfig
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project Phòng Trọ.AssemblyInfoInputs.cache
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project Phòng Trọ.AssemblyInfo.cs
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project Phòng Trọ.csproj.CoreCompileInputs.cache
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project Phòng Trọ.csproj.CopyComplete
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project Phòng Trọ.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\refint\Project Phòng Trọ.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project Phòng Trọ.pdb
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project Phòng Trọ.genruntimeconfig.cache
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\ref\Project Phòng Trọ.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\Guna.UI2.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\System.Management.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.Admin.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.Uc_Item.UC_Card_Room.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.Uc_Item.UC_Header.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.RoomDetails.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.fNewTenantsForRoom.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.fServiceForTargetRoom.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.fNewRoom.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.fInvoices.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.fNewInvoices.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.fChangeInvoice.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.fConfirmPassStaff.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.fContract.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.fForgetStaff.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.fLoginStaff.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.fService.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.fStaff.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.fTenant.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.ServicesCard.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.fReportInvoice.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.fReportRoom.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.fReportRoomChart.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.fReportStaff.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.fReportStaffGroup.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.fReportTenant.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.Properties.Resources.resources
+C:\HK6 - Note\Lập trình Windows\Project\Project Phòng Trọ\Project Phòng Trọ\Project Phòng Trọ\obj\Debug\net7.0-windows\Project_Phòng_Trọ.fReportMain.resources

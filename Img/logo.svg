@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2705px" height="608px" viewBox="0 0 2705 608" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo Web@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M497.038961,545.705627 L363.705627,545.705627 L363.705627,412.372294 C363.705627,375.553311 393.553311,345.705627 430.372294,345.705627 C467.191277,345.705627 497.038961,375.553311 497.038961,412.372294 C533.857944,412.372294 563.705627,442.219977 563.705627,479.038961 C563.705627,515.857944 533.857944,545.705627 497.038961,545.705627 Z" id="path-1"></path>
+        <filter x="-4.5%" y="-4.5%" width="118.0%" height="111.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="18" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <path d="M0.621528077,245.228576 L0,244.487868 L288.171429,2.68332842 L290.423009,3.55271368e-14 L290.896152,0.397014284 L291.096888,0.228576435 L292.052147,1.3670092 L550.878119,218.547787 C567.801106,232.747859 570.008465,257.978083 555.808393,274.901069 C541.608321,291.824056 516.378097,294.031415 499.455111,279.831343 L290.896152,104.829597 L80,281.792481 L80,515.228576 L199,515.228576 L199,456.228576 C199,434.137186 216.90861,416.228576 239,416.228576 C261.09139,416.228576 279,434.137186 279,456.228576 L279,515.228576 L279,595.228576 L80,595.228576 L0,595.228576 L0,245.228576 L0.621528077,245.228576 Z" id="path-3"></path>
+        <filter x="-1.9%" y="-2.9%" width="107.8%" height="104.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="22" dy="-6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo-Web" transform="translate(-197.000000, -106.000000)">
+            <rect id="Rectangle" x="0" y="0" width="3166" height="794"></rect>
+            <g id="Logo-With-shadow" transform="translate(197.000000, 85.000000)">
+                <g id="New" transform="translate(0.000000, 27.402469)">
+                    <g id="Combined-Shape" transform="translate(463.705627, 445.705627) rotate(-45.000000) translate(-463.705627, -445.705627) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <path stroke="#44AC3B" stroke-width="35" d="M381.205627,528.205627 L497.038961,528.205627 C524.192961,528.205627 546.205627,506.192961 546.205627,479.038961 C546.205627,451.884961 524.192961,429.872294 497.038961,429.872294 L479.538961,429.872294 L479.538961,412.372294 C479.538961,385.218294 457.526294,363.205627 430.372294,363.205627 C403.218294,363.205627 381.205627,385.218294 381.205627,412.372294 L381.205627,528.205627 Z" stroke-linejoin="square" fill="#44AC3B" fill-rule="evenodd"></path>
+                    </g>
+                    <g id="Logo">
+                        <g id="Combined-Shape">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#44AC3B" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <text id="LaLaHome" font-family="Helvetica-Bold, Helvetica" font-size="400" font-weight="bold" fill="#44AC3B">
+                <tspan x="869" y="706">LaLaHome</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ds_Room_Chart" targetNamespace="http://tempuri.org/ds_Room_Chart.xsd" xmlns:mstns="http://tempuri.org/ds_Room_Chart.xsd" xmlns="http://tempuri.org/ds_Room_Chart.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection ConnectionStringObject="Data Source=localhost\SQLEXPRESS;Initial Catalog=QLPT;Integrated Security=True" IsAppSettingsProperty="false" Modifier="Assembly" Name="minhlaptop\sqlexpress.QLPT.dbo" ParameterPrefix="@" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Invoices&amp;RoomTableAdapter" GeneratorDataComponentClassName="Invoices_RoomTableAdapter" Name="Invoices&amp;Room" UserDataComponentName="Invoices&amp;RoomTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="minhlaptop\sqlexpress.QLPT.dbo" DbObjectName="QLPT.dbo.[Invoices&amp;Room]" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT RoomID, RoomName, RoomPrice, Area, Status, TotalAmount, InvoiceID FROM dbo.[Invoices&amp;Room]</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="RoomID" DataSetColumn="RoomID" />
+              <Mapping SourceColumn="RoomName" DataSetColumn="RoomName" />
+              <Mapping SourceColumn="RoomPrice" DataSetColumn="RoomPrice" />
+              <Mapping SourceColumn="Area" DataSetColumn="Area" />
+              <Mapping SourceColumn="Status" DataSetColumn="Status" />
+              <Mapping SourceColumn="TotalAmount" DataSetColumn="TotalAmount" />
+              <Mapping SourceColumn="InvoiceID" DataSetColumn="InvoiceID" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ds_Room_Chart" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="ds_Room_Chart" msprop:Generator_DataSetName="ds_Room_Chart">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Invoices_x0026_Room" msprop:Generator_RowEvHandlerName="_Invoices_RoomRowChangeEventHandler" msprop:Generator_RowDeletedName="_Invoices_RoomRowDeleted" msprop:Generator_RowDeletingName="_Invoices_RoomRowDeleting" msprop:Generator_RowEvArgName="_Invoices_RoomRowChangeEvent" msprop:Generator_TablePropName="_Invoices_Room" msprop:Generator_RowChangedName="_Invoices_RoomRowChanged" msprop:Generator_RowChangingName="_Invoices_RoomRowChanging" msprop:Generator_TableClassName="_Invoices_RoomDataTable" msprop:Generator_RowClassName="_Invoices_RoomRow" msprop:Generator_TableVarName="_tableInvoices_Room" msprop:Generator_UserTableName="Invoices&amp;Room">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="RoomID" msprop:Generator_ColumnPropNameInRow="RoomID" msprop:Generator_ColumnPropNameInTable="RoomIDColumn" msprop:Generator_ColumnVarNameInTable="columnRoomID" msprop:Generator_UserColumnName="RoomID" type="xs:long" />
+              <xs:element name="RoomName" msprop:Generator_ColumnPropNameInRow="RoomName" msprop:Generator_ColumnPropNameInTable="RoomNameColumn" msprop:Generator_ColumnVarNameInTable="columnRoomName" msprop:Generator_UserColumnName="RoomName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="RoomPrice" msprop:Generator_ColumnPropNameInRow="RoomPrice" msprop:Generator_ColumnPropNameInTable="RoomPriceColumn" msprop:Generator_ColumnVarNameInTable="columnRoomPrice" msprop:Generator_UserColumnName="RoomPrice" type="xs:decimal" />
+              <xs:element name="Area" msprop:Generator_ColumnPropNameInRow="Area" msprop:Generator_ColumnPropNameInTable="AreaColumn" msprop:Generator_ColumnVarNameInTable="columnArea" msprop:Generator_UserColumnName="Area" type="xs:decimal" />
+              <xs:element name="Status" msprop:Generator_ColumnPropNameInRow="Status" msprop:Generator_ColumnPropNameInTable="StatusColumn" msprop:Generator_ColumnVarNameInTable="columnStatus" msprop:Generator_UserColumnName="Status" type="xs:boolean" />
+              <xs:element name="TotalAmount" msprop:Generator_ColumnPropNameInRow="TotalAmount" msprop:Generator_ColumnPropNameInTable="TotalAmountColumn" msprop:Generator_ColumnVarNameInTable="columnTotalAmount" msprop:Generator_UserColumnName="TotalAmount" type="xs:decimal" />
+              <xs:element name="InvoiceID" msprop:Generator_ColumnPropNameInRow="InvoiceID" msprop:Generator_ColumnPropNameInTable="InvoiceIDColumn" msprop:Generator_ColumnVarNameInTable="columnInvoiceID" msprop:Generator_UserColumnName="InvoiceID" type="xs:long" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Invoices_x0026_Room" />
+      <xs:field xpath="mstns:RoomID" />
+      <xs:field xpath="mstns:InvoiceID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
